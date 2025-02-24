@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f2d2548fed9f52944bbd1238ce7d5d28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - teetPrefab: {fileID: 2440268776543203887, guid: 0315e2da7598e8c459eac567fa8822f7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
